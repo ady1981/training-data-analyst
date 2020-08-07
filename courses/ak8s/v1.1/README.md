@@ -10,9 +10,9 @@ See the following resources to learn more:
 
 * [Bash cheat sheet](https://devhints.io/bash/).
 
-* [Bash internal variables](https://www.gnu.org/software/bash/manual/html_node/Bash-Variables.html/)
+* [Bash internal variables](https://www.gnu.org/software/bash/manual/html_node/Bash-Variables.html/).
 
-* [Bash reference manual](https://www.gnu.org/software/bash/manual/html_node/)
+* [Bash reference manual](https://www.gnu.org/software/bash/manual/html_node/).
 
 * Get pod ordinal number:
 ```bash
