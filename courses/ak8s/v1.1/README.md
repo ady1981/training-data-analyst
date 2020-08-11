@@ -6,6 +6,12 @@ See the following resources to learn more:
 
 - [Google Kubernetes Engine - Quickstart](https://cloud.google.com/kubernetes-engine/docs/quickstart)
 
+# Kubernetes extra cheat sheet
+
+* [kubectl overview](https://kubernetes.io/docs/reference/kubectl/overview/)
+* [kubectl reference guide](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#-strong-getting-started-strong-)
+* [Kubernetes API reference guide](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.18/)
+
 # Bash extra cheat sheet
 
 * [Bash cheat sheet](https://devhints.io/bash/).
