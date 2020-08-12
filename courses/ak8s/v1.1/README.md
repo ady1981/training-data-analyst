@@ -25,3 +25,7 @@ See the following resources to learn more:
 [[ `hostname` =~ -([0-9]+)$ ]] || exit 1
 ordinal=${BASH_REMATCH[1]}
 ```
+# Other cheat sheets
+
+* [JSONPath cheat sheet](https://kubernetes.io/docs/reference/kubectl/jsonpath/)
+* [Go template reference guide](https://golang.org/pkg/text/template/#pkg-overview)
