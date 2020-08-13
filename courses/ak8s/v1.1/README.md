@@ -9,6 +9,7 @@ See the following resources to learn more:
 # Kubernetes extra cheat sheet
 
 * [kubectl overview](https://kubernetes.io/docs/reference/kubectl/overview/)
+* [kubectl cheat sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 * [kubectl reference guide](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#-strong-getting-started-strong-)
 * [Kubernetes API reference guide](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.18/)
 
