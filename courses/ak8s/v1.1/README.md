@@ -30,3 +30,8 @@ ordinal=${BASH_REMATCH[1]}
 
 * [JSONPath cheat sheet](https://kubernetes.io/docs/reference/kubectl/jsonpath/)
 * [Go template reference guide](https://golang.org/pkg/text/template/#pkg-overview)
+
+
+# Security guidelines
+
+[Docker/Kubernetes security guidelines](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html)
