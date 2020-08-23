@@ -12,6 +12,7 @@ See the following resources to learn more:
 * [kubectl cheat sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 * [kubectl reference guide](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#-strong-getting-started-strong-)
 * [Kubernetes API reference guide](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.18/)
+* [Minikube manual](https://minikube.sigs.k8s.io/docs/)
 
 # Bash extra cheat sheet
 
