@@ -14,6 +14,9 @@ See the following resources to learn more:
 * [Kubernetes API reference guide](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.18/)
 * [Minikube manual](https://minikube.sigs.k8s.io/docs/)
 
+# Minikube extra cheat sheet
+* [minikube reference guide](https://minikube.sigs.k8s.io/docs/commands/)
+
 # Bash extra cheat sheet
 
 * [Bash cheat sheet](https://devhints.io/bash/).
